@@ -1,2 +1,3 @@
-#!/bin/bash/necho "ALX School"
-e- #!/bin/bash/necho "The school is open!"
+#!/bin/bash
+echo "ALX School" 
+echo "The school is open!"
